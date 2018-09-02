@@ -15,7 +15,7 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 ## Assign URL in Node-RED function node
 
 <p align="center">
-<img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/node-red-function-node-dweet-url.png" width="600px"/>
+<img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/node-red-function-node-dweet-url.png" width="800px"/>
 </p>
 
 - function node + http request node. No `node-red-node-dweetio` dependency. 
