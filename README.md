@@ -19,9 +19,12 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 </p>
 
 - function node + http request node. No `node-red-node-dweetio` dependency. 
-- `msg.url='https://dweet.io:443/dweet/for/thermostat';` from dweet.io/play
-- `msg.url='https://dweet.io:443/get/latest/dweet/for/thermostat';` from dweet.io/play
+- `msg.url='https://dweet.io:443/dweet/for/thermostat';` to create a deweet for a thing.
+- `msg.url='https://dweet.io:443/get/latest/dweet/for/thermostat';` to read the latest dweet for a thing.
 
+## ecolect + dweet.io
+
+Update [ecolect example](https://github.com/phyunsj/node-red-contrib-ecolect-example) with dweet.io. 
 
 ## Related Posts
 
