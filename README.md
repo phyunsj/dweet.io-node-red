@@ -17,3 +17,6 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 <p align="center">
 <img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/node-red-function-node-dweet-url.png" width="600px"/>
 </p>
+
+- `msg.url='https://dweet.io:443/dweet/for/thermostat';` from dweet.io/play
+- `msg.url='https://dweet.io:443/get/latest/dweet/for/thermostat';` from dweet.io/play
