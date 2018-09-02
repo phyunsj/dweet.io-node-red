@@ -20,3 +20,7 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 
 - `msg.url='https://dweet.io:443/dweet/for/thermostat';` from dweet.io/play
 - `msg.url='https://dweet.io:443/get/latest/dweet/for/thermostat';` from dweet.io/play
+
+## Related Posts
+
+- [HAPI](https://github.com/jheising/HAPI)
