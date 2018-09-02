@@ -35,3 +35,4 @@ Update [ecolect example](https://github.com/phyunsj/node-red-contrib-ecolect-exa
 ## Related Posts
 
 - [HAPI](https://github.com/jheising/HAPI) : The Humanized API
+- [Create Your Internet of Things Dashboard](https://openhomeautomation.net/internet-of-things-dashboard) : dweet.io + freeboard.io
