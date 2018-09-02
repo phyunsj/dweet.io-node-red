@@ -26,6 +26,12 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 
 Update [ecolect example](https://github.com/phyunsj/node-red-contrib-ecolect-example) with dweet.io. 
 
+
+
+<p align="center">
+<img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/dtweet.io-ecolect.png" width="800px"/>
+</p>
+
 ## Related Posts
 
 - [HAPI](https://github.com/jheising/HAPI) : The Humanized API
