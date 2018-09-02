@@ -23,4 +23,4 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 
 ## Related Posts
 
-- [HAPI](https://github.com/jheising/HAPI)
+- [HAPI](https://github.com/jheising/HAPI) : The Humanized API
