@@ -1,6 +1,6 @@
 # dweet.io + Node-RED
 
-A simple example to interact with [dweet.io.](http://dweet.io/)
+A simple example to interact with [dweet.io.](http://dweet.io/) from Node-RED.
 
 ## Visit [dweet.io/play](https://dweet.io/play). Create "dweets"
 
