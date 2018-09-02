@@ -18,8 +18,10 @@ A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 <img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/node-red-function-node-dweet-url.png" width="600px"/>
 </p>
 
+- function node + http request node. No `node-red-node-dweetio` dependency. 
 - `msg.url='https://dweet.io:443/dweet/for/thermostat';` from dweet.io/play
 - `msg.url='https://dweet.io:443/get/latest/dweet/for/thermostat';` from dweet.io/play
+
 
 ## Related Posts
 
