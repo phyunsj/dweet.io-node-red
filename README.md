@@ -1,8 +1,8 @@
 # dweet.io + Node-RED
 
-A simple example to interact with [dweet.io.](http://dweet.io/) from Node-RED.
+A simple example of [dweet.io.](http://dweet.io/) with Node-RED.
 
-## Visit [dweet.io/play](https://dweet.io/play). Create "dweets"
+## Visit [dweet.io/play](https://dweet.io/play) Create "dweets"
 
 <p align="center">
 <img src="https://github.com/phyunsj/dweet.io-node-red/blob/master/dtweet.io.post.thing.png" width="600px"/>
