@@ -34,6 +34,8 @@ Update [ecolect example](https://github.com/phyunsj/node-red-contrib-ecolect-exa
 
 ## Related Posts
 
-- [HAPI](https://github.com/jheising/HAPI) : The Humanized API
+
+- [dweet.io: A simple, effective messaging service for IoTs](https://www.networkworld.com/article/3133738/internet-of-things/dweetio-a-simple-effective-messaging-service-for-the-internet-of-things.html)
 - [Create Your Internet of Things Dashboard](https://openhomeautomation.net/internet-of-things-dashboard) : dweet.io + freeboard.io
 - [node-dweetio](https://github.com/buglabs/node-dweetio) from [BugLabs](http://buglabs.net)
+- [HAPI](https://github.com/jheising/HAPI) : The Humanized API
